@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dimas Aditya.<br>I like learning web development.
+Hi, I'm Dimas Aditya.
 
 
 ## 🌐 Socials:
